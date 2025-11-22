@@ -32,13 +32,13 @@ Closes the application safely.
 git clone https://github.com/SarimArain99/bank-app-gemini-cli.git
 
 ## 2. Navigate to the Project Directory
-cd bank-app-gemini-cli
+`cd bank-app-gemini-cli`
 
 ## 3. Install Dependencies (if required)
-npm install
+`npm install`
 
 ## 4. Run the Application
-node index.js
+`node index.js`
 
 
 Follow the on-screen instructions to access features like PIN verification, check balance, withdraw, fast cash, and share balance.
