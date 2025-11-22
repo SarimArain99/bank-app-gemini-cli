@@ -1,31 +1,31 @@
 # Bank App using GEMINI CLI
 
-A simple command-line banking application built using the Gemini CLI, providing essential banking operations with PIN-based security.
+- A simple command-line banking application built using the Gemini CLI, providing essential banking operations with PIN-based security.
 
 ## 📌 Features
 ### 🔐 PIN Verification
 
-Ensures that only authorized users can access the banking system.
+- Ensures that only authorized users can access the banking system.
 
 ### 💰 Check Balance
 
-Displays the user’s current account balance.
+- Displays the user’s current account balance.
 
 ### ⚡ Fast Cash
 
-Allows quick withdrawals of preset amounts for convenience.
+- Allows quick withdrawals of preset amounts for convenience.
 
 ### 🏧 Withdraw
 
-Lets the user enter a custom withdrawal amount.
+- Lets the user enter a custom withdrawal amount.
 
 ### 📤 Share Balance
 
-Enables the user to transfer part of their balance to another account.
+- Enables the user to transfer part of their balance to another account.
 
 ### 🚪 Exit
 
-Closes the application safely.
+- Closes the application safely.
 
 # 🛠 Installation & Usage
 ## 1. Clone the Repository
@@ -41,7 +41,7 @@ git clone https://github.com/SarimArain99/bank-app-gemini-cli.git
 `node index.js`
 
 
-Follow the on-screen instructions to access features like PIN verification, check balance, withdraw, fast cash, and share balance.
+- Follow the on-screen instructions to access features like PIN verification, check balance, withdraw, fast cash, and share balance.
 
 # 📂 Repository
 
